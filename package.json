@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "main.js",
+  "type": "commonjs",
   "scripts": {
     "start": "electron .",
     "dev": "nodemon --exec electron ."
@@ -12,6 +13,14 @@
   "license": "ISC",
   "devDependencies": {
     "electron": "^24.3.1",
-    "nodemon": "^2.0.22"
+    "imagemin": "^7.0.1",
+    "imagemin-mozjpeg": "^10.0.0",
+    "imagemin-pngquant": "^9.0.2",
+    "nodemon": "^2.0.22",
+    "slash": "^3.0.0"
+  },
+  "dependencies": {
+    "imagemin-jpegtran": "^7.0.0",
+    "nvm": "^0.0.4"
   }
 }
