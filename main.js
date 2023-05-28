@@ -4,7 +4,6 @@ const { app, BrowserWindow, Menu, globalShortcut, ipcMain, shell } = require('el
 const imageminJpegtran = require ('imagemin-jpegtran');
 const imagemin = require('imagemin')
 const imageminPngquant = require('imagemin-pngquant');
-// const imageminMozjpeg = require('imagemin-mozjpeg')
 const slash = require('slash')
 const log = require('electron-log')
 
