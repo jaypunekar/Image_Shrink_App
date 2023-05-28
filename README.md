@@ -39,5 +39,5 @@ npm run package-linux
 #### After running the respective command for your OS there will be a release-build directory created. In the release-build directory there will the ImageShrink executable. Double click the executable to run the app.
 
 
-### Note:- If there is an error then probably you have installed different versions of the modules required for this project. Reinsall all the modules with correct versions and everything will work.
+#### Note:- If there is an error then probably you have installed different versions of the modules required for this project. Reinsall all the modules with correct versions and everything will work.
 
