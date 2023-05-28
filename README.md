@@ -1,6 +1,6 @@
 # Image_Shrink_App
 
-## All the versions of the packages you install on your local system should match with the version from package.json.
+## The App only works for PNG & JPG images.
 
 ### First Clone the repository
 
