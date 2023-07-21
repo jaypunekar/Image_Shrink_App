@@ -1,5 +1,7 @@
 # Image_Shrink_App
 
+The Image Shrink App is a user-friendly desktop application designed to resize and compress images effortlessly. Developed using JavaScript and leveraging popular libraries, such as Electron.js, the app offers a simple and intuitive interface for users to select images and specify the desired size reduction. By effectively reducing image file sizes without compromising quality, this app streamlines image optimization, making it ideal for various use cases like web publishing, email attachments, and storage management. The Image Size Shrink App provides a quick and efficient solution for users seeking to efficiently manage their image files with ease.
+
 ## The App only works for PNG & JPG images.
 
 ### First Clone the repository
