@@ -43,3 +43,6 @@ npm run package-linux
 
 #### Note:- If there is an error then probably you have installed different versions of the modules required for this project. Reinsall all the modules with correct versions and everything will work.
 
+
+## Screenshots
+[![imgshrink.png](https://i.postimg.cc/TPzhvsRj/imgshrink.png)](https://postimg.cc/hJ0K9pQh)
