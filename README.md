@@ -45,4 +45,5 @@ npm run package-linux
 
 
 ## Screenshots
+[![imgshrink.png](https://i.postimg.cc/TPzhvsRj/imgshrink.png)](https://postimg.cc/hJ0K9pQh)
 
